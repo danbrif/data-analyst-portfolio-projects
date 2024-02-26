@@ -1,1 +1,1 @@
-# data-analyst-portfolio-projects
+# Data Analyst Portfolio Projects
