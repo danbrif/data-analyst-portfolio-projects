@@ -2,7 +2,8 @@
 COVID-19 DATA EXPLORATION 
 
 SKILLS USED: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-DATASET: https://ourworldindata.org/covid-deaths
+TOOLS: SQL Server Management Studio (SSMS)
+DATASET: https://drive.google.com/drive/folders/1_qR2RyHUW1eaMZ9TGVeq9tx4AGq1_X3P?usp=sharing (www.ourworldindata.org/covid-deaths)
 */
 
 
