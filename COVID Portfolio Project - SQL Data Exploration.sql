@@ -147,3 +147,7 @@ FROM PortfolioProject..CovidDeath dea
 JOIN PortfolioProject..CovidVac vac
 	ON dea.countries = vac.countries AND dea.date = vac.date
 WHERE dea.continent is not null
+
+
+
+
